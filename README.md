@@ -8,7 +8,7 @@ A Distributed Security and Robust Power Management Framework for More Electric A
   
 **Note 2**: If you use our code, please cite the following:  
   
-@ARTICLE{10433713,  
+@article{Liu2024MEA,  
   author={Liu, Shan and Guo, Fanghong and Wu, Xiang and Wen, Changyun and Yang, Ying and Chen, Jiawei},  
   journal={IEEE Transactions on Transportation Electrification},   
   title={A Distributed Secure and Robust Power Management Framework for More Electric Aircraft},   
