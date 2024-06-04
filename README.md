@@ -7,7 +7,7 @@ A Distributed Security and Robust Power Management Framework for More Electric A
   
 **Note 1**: Since the syntax of software packages may be updated, we have uploaded the YALMIP file used in the experiment to ensure that the code can be run smoothly.  
   
-**Note 2**: If you use our code, please cite the following:  
+**Note 2**: If you use our code, please cite the following articles:  
   
 @article{Liu2024MEA,  
   author={Liu, Shan and Guo, Fanghong and Wu, Xiang and Wen, Changyun and Yang, Ying and Chen, Jiawei},  
