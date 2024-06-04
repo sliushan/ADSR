@@ -1,8 +1,9 @@
 # ADSR
 A Distributed Security and Robust Power Management Framework for More Electric Aircraft  
 
-**FI&R**: Fault Isolation and Reconfiguration  
-**Power_scheduling**: Rolling scheduling  
+**FI&R**: Fault Isolation and Reconfiguration.  
+**Power_scheduling**: Rolling scheduling.  
+**YALMIP-master**: YALMIP file (a MATLAB toolbox for optimization modeling).  
   
 **Note 1**: Since the syntax of different versions of software packages may be updated, we have uploaded the yalmip file (a MATLAB toolbox for optimization modeling) used in the experiment to ensure that the code can be run smoothly.  
   
