@@ -3,7 +3,7 @@ A Distributed Security and Robust Power Management Framework for More Electric A
 
 **FI&R**: Fault isolation and reconfiguration part.  
 **Power_scheduling**: Rolling scheduling part.  
-**YALMIP-master**: YALMIP file (a MATLAB toolbox for optimization modeling).  
+**YALMIP-master**: YALMIP file (A MATLAB toolbox for optimization modeling).  
   
 **Note 1**: Since the syntax of software packages may be updated, we have uploaded the YALMIP file used in the experiment to ensure that the code can be run smoothly.  
   
