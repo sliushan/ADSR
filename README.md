@@ -5,7 +5,7 @@ A Distributed Security and Robust Power Management Framework for More Electric A
 **Power_scheduling**: Rolling scheduling part.  
 **YALMIP-master**: YALMIP file (a MATLAB toolbox for optimization modeling).  
   
-**Note 1**: Since the syntax of different versions of software packages may be updated, we have uploaded the yalmip file (a MATLAB toolbox for optimization modeling) used in the experiment to ensure that the code can be run smoothly.  
+**Note 1**: Since the syntax of software packages may be updated, we have uploaded the yalmip file used in the experiment to ensure that the code can be run smoothly.  
   
 **Note 2**: If you use our code, please cite the following:  
   
