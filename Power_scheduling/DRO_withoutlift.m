@@ -48,7 +48,7 @@ end
 M=size(VP,2);
 %% decision rule
 bN = 1; 
-CC=1;
+CC=0;
 if CC==1
     % 构造wasserstein模糊集
     eta = 0.95; %设置置信度
