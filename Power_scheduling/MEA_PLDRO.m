@@ -80,7 +80,7 @@ for m = 1:M
     ksi_wan{m} = [ ones(T,1);ones(T,1);ksi_wan_now]; %按ksi0;ksi_hat0;ksi_tine0;ksi;ksi_hat;ksi_tine排列
     ksi_wan2{m} =  ksi_hat2; %按ksi_hat;ksi_tine排列
 end
-CC=1;
+CC=0;
 if CC==1
     % 构造wasserstein模糊集
     eta = 0.95; %设置置信度
